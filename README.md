@@ -1,1 +1,1 @@
-Privately developed Shield Breaker mod
+Privately developed Shield Breaker mod (broken)
