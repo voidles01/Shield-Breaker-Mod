@@ -21,7 +21,7 @@ import net.minecraft.util.Hand;
 import net.minecraft.util.Identifier;
 
 public final class ShieldBreakerClient implements ClientModInitializer {
-    private static final long ATTACK_DELAY_NANOS = 50_000_000L;
+    private static final long ATTACK_DELAY_NANOS = 5_000_000L;
     private static final double ATTACK_RANGE_SQUARED = 9.0D;
 
     private KeyBinding menuKey;
